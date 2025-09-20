@@ -1,0 +1,1 @@
+a distributed computing model that moves data processing and storage closer to the devices and users that generate and consume data, rather than relying solely on centralized cloud data centers

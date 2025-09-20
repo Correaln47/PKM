@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"9520ca5f2b411535","type":"file","file":"2_Projects/SuperKnoba.md","x":-320,"y":-400,"width":641,"height":400},
+		{"id":"b3381de9776c1997","type":"link","url":"https://e2e.ti.com/support/sensors-group/sensors/f/sensors-forum/1464958/tmag5173evm-off-axis-magnetic-absolute-encoder","x":-760,"y":280,"width":761,"height":600},
+		{"id":"3ab054490550bc4e","x":-700,"y":1000,"width":400,"height":400,"type":"link","url":"https://ams-osram.com/products/sensor-solutions/position-sensors/ams-as5200l-magnetic-rotary-position-sensor"},
+		{"id":"bde5fd15be79332f","x":420,"y":-240,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=ip641WmY4pA"},
+		{"id":"b48792a65cb03e5c","x":420,"y":240,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=Q76dMggUH1M"},
+		{"id":"187bd4304d2974ba","x":780,"y":1040,"width":400,"height":400,"type":"link","url":"https://www.amazon.com/dp/B0D4CXY3K6/ref=sspa_dk_detail_6?psc=1&pd_rd_i=B0D4CXY3K6&pd_rd_w=ezj2V&content-id=amzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309&pf_rd_p=953c7d66-4120-4d22-a777-f19dbfa69309&pf_rd_r=2KGS57J7JCFZVQX1WNCK&pd_rd_wg=hOuZA&pd_rd_r=10e1b6d9-b768-4d94-83bd-e7cb38a08a2a&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy"},
+		{"id":"29f85f7ed65817bb","x":780,"y":1520,"width":400,"height":400,"type":"link","url":"https://www.amazon.com/gp/product/B08S5XMK5J/ref=ewc_pr_img_2?smid=A2Z6SORRWKQ6CK&psc=1"},
+		{"id":"dced15080920b72f","x":780,"y":600,"width":400,"height":400,"type":"link","url":"https://a.co/d/d6qzNzP"}
+	],
+	"edges":[]
+}
