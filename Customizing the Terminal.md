@@ -61,3 +61,4 @@ RANDOM_COW=${MY_COWS[$(( (RANDOM % NUM_COWS) + 1 ))]}
 curl -s "Accept: text/plain" https://icanhazdadjoke.com/ | cowsay -f $RANDOM_COW | lolcat --freq=0.075 --force
 ```
 
+p10k configure

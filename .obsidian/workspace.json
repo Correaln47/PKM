@@ -41,14 +41,17 @@
             "id": "1163973929165bce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Kiwi/TO-DO Kiwi.md",
-                "mode": "source",
-                "source": false
+                "file": "2_Projects/SuperKnoba.canvas",
+                "viewState": {
+                  "x": 557.5441590564653,
+                  "y": 1149.4799088057798,
+                  "zoom": -0.8
+                }
               },
-              "icon": "lucide-file",
-              "title": "TO-DO Kiwi"
+              "icon": "lucide-layout-dashboard",
+              "title": "SuperKnoba"
             }
           },
           {
@@ -94,6 +97,20 @@
             }
           },
           {
+            "id": "1bb7052b20ba16b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "G1grasp summary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "G1grasp summary"
+            }
+          },
+          {
             "id": "7540a7546ccfe6e0",
             "type": "leaf",
             "state": {
@@ -106,9 +123,23 @@
               "icon": "lucide-file",
               "title": "Virtual envirmoent usage"
             }
+          },
+          {
+            "id": "13efe5a4d268e488",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Customizing the Terminal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Customizing the Terminal"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -167,8 +198,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           },
           {
@@ -177,11 +208,32 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
+            }
+          },
+          {
+            "id": "3a9728d9967c767f",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "Notebook Navigator"
+            }
+          },
+          {
+            "id": "c309477355a39498",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
               "icon": "notebook",
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -249,13 +301,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Projects/Training a robot in Isaac Sim.md",
+                "file": "2_Projects/SuperKnoba.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Training a robot in Isaac Sim"
+              "title": "Outline of SuperKnoba"
             }
           },
           {
@@ -304,8 +356,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -316,6 +368,46 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "096afcd1415fb9a0",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "2883f6efab2c07da",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "b6448b77790603d9",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "08ac6890d94ca084",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
@@ -342,9 +434,19 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "cd246780008698ed",
+  "active": "c309477355a39498",
   "lastOpenFiles": [
+    "Linux Essentials.md",
+    "Docker installation.md",
     "Virtual envirmoent usage.md",
+    "Ros2 Installation.md",
+    "2_Projects/SuperKnoba.canvas",
+    "Kiwi/TO-DO Kiwi.md",
+    "Kiwi/Com.md",
+    "Kiwi/attachments/Pasted image 20250924095427.png",
+    "Kiwi/attachments/Pasted image 20250924093204.png",
+    "Kiwi/attachments/Pasted image 20250924092145.png",
+    "G1grasp summary.md",
     "2_Projects/Training a robot in Isaac Sim.md",
     "2_Projects/Simple Grasping RL task - G1.md",
     "2_Projects/Analyzing Isaac Lab Humanoid examples.md",
@@ -352,14 +454,11 @@
     "2_Projects/Building a Simple Robot in Isaac Sim.md",
     "Customizing the Terminal.md",
     "Custom Chatbot Roadmap.md",
-    "Kiwi/Com.md",
     "2_Projects/SmartAssitant/Roadmap.md",
-    "Kiwi/TO-DO Kiwi.md",
     "2_Projects/SmartAssitant",
     "Kiwi/Web Tools.md",
     "1_Areas/Robotics/Robotics MOC.md",
     "Templates/Basic.md",
-    "2_Projects/SuperKnoba.canvas",
     "Templates",
     "TODO Kiwi.md",
     "META.md",
@@ -376,18 +475,11 @@
     "2_Projects/Isaac Sim Installation.md",
     "2_Projects/attachments/Pasted image 20250913220232.png",
     "2_Projects/attachments/Pasted image 20250913153314.png",
-    "1_Areas/Electronics/Sensors MOC.md",
-    "Excalidraw/Drawing 2025-09-12 21.56.22.excalidraw.md",
     "Excalidraw",
-    "2_Projects/Bussiness Ideas.md",
-    "3_Resources/Hardware in the loop.md",
     "3_Resources/attachments/Pasted image 20250909192116.png",
     "2_Projects/attachments/image(14).png",
     "2_Projects/attachments/image(13).png",
     "2_Projects/attachments/image(12).png",
-    "2_Projects/attachments/image(11).png",
-    "2_Projects/attachments/image(10).png",
-    "2_Projects/attachments/image(9).png",
     "attachments",
     "2_Projects/attachments",
     "Untitled.base",

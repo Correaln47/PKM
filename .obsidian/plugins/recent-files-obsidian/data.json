@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Training a robot in Isaac Sim",
-      "path": "2_Projects/Training a robot in Isaac Sim.md"
+      "basename": "Customizing the Terminal",
+      "path": "Customizing the Terminal.md"
+    },
+    {
+      "basename": "Linux Essentials",
+      "path": "Linux Essentials.md"
+    },
+    {
+      "basename": "Docker installation",
+      "path": "Docker installation.md"
     },
     {
       "basename": "Virtual envirmoent usage",
       "path": "Virtual envirmoent usage.md"
+    },
+    {
+      "basename": "Ros2 Installation",
+      "path": "Ros2 Installation.md"
+    },
+    {
+      "basename": "SuperKnoba",
+      "path": "2_Projects/SuperKnoba.canvas"
+    },
+    {
+      "basename": "TO-DO Kiwi",
+      "path": "Kiwi/TO-DO Kiwi.md"
+    },
+    {
+      "basename": "Com",
+      "path": "Kiwi/Com.md"
+    },
+    {
+      "basename": "G1grasp summary",
+      "path": "G1grasp summary.md"
+    },
+    {
+      "basename": "Training a robot in Isaac Sim",
+      "path": "2_Projects/Training a robot in Isaac Sim.md"
     },
     {
       "basename": "Simple Grasping RL task - G1",
@@ -25,24 +57,12 @@
       "path": "2_Projects/Building a Simple Robot in Isaac Sim.md"
     },
     {
-      "basename": "Customizing the Terminal",
-      "path": "Customizing the Terminal.md"
-    },
-    {
       "basename": "Custom Chatbot Roadmap",
       "path": "Custom Chatbot Roadmap.md"
     },
     {
-      "basename": "Com",
-      "path": "Kiwi/Com.md"
-    },
-    {
       "basename": "Roadmap",
       "path": "2_Projects/SmartAssitant/Roadmap.md"
-    },
-    {
-      "basename": "TO-DO Kiwi",
-      "path": "Kiwi/TO-DO Kiwi.md"
     },
     {
       "basename": "Web Tools",
@@ -55,10 +75,6 @@
     {
       "basename": "Basic",
       "path": "Templates/Basic.md"
-    },
-    {
-      "basename": "SuperKnoba",
-      "path": "2_Projects/SuperKnoba.canvas"
     },
     {
       "basename": "META",
