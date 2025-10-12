@@ -148,3 +148,8 @@ spawn=sim_utils.UsdFileCfg(
 
 
 assembler fixed joint
+
+
+
+
+ python scripts/skrl/train.py --task Template-G1grasp-v0 --checkpoint logs/skrl/G1_grasp/2025-10-05_21-00-04_ppo_torch/checkpoints/agent_20000.pt --headless   

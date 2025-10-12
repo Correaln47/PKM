@@ -38,108 +38,35 @@
             }
           },
           {
-            "id": "1163973929165bce",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2_Projects/SuperKnoba.canvas",
-                "viewState": {
-                  "x": 557.5441590564653,
-                  "y": 1149.4799088057798,
-                  "zoom": -0.8
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "SuperKnoba"
-            }
-          },
-          {
-            "id": "2f5e3c6bcd4d7045",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Areas/Robotics/Robotics MOC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Robotics MOC"
-            }
-          },
-          {
-            "id": "d2b7f1f2fabc9133",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Custom Chatbot Roadmap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Custom Chatbot Roadmap"
-            }
-          },
-          {
             "id": "717ff731b558dff9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Projects/Training a robot in Isaac Sim.md",
+                "file": "2_Projects/Simple Grasping RL task - G1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Training a robot in Isaac Sim"
+              "title": "Simple Grasping RL task - G1"
             }
           },
           {
-            "id": "1bb7052b20ba16b2",
+            "id": "1df8ae9447b1c2ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "G1grasp summary.md",
+                "file": "Frases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "G1grasp summary"
-            }
-          },
-          {
-            "id": "7540a7546ccfe6e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Virtual envirmoent usage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Virtual envirmoent usage"
-            }
-          },
-          {
-            "id": "13efe5a4d268e488",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Customizing the Terminal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Customizing the Terminal"
+              "title": "Frases"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,12 +145,52 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
+            }
+          },
+          {
+            "id": "c309477355a39498",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
+            }
+          },
+          {
+            "id": "e52cd667f44cb9a3",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
+            }
+          },
+          {
+            "id": "e7e10476bfc5ecff",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
+            }
+          },
+          {
+            "id": "3fd5a8c84f0993cd",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
               "icon": "notebook",
               "title": "Notebook Navigator"
             }
           },
           {
-            "id": "c309477355a39498",
+            "id": "6e91fbcbea7ba7ee",
             "type": "leaf",
             "state": {
               "type": "notebook-navigator",
@@ -233,11 +200,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 389.5,
+    "collapsed": true
   },
   "right": {
     "id": "a01d55c6eae2b9a5",
@@ -366,8 +334,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -396,12 +364,52 @@
             "state": {
               "type": "todo",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "08ac6890d94ca084",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "c239114cc5468fc1",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "fd03f2a9b927186b",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "6faf1b599b472965",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo List"
             }
           },
           {
-            "id": "08ac6890d94ca084",
+            "id": "29b7d50475885654",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -411,11 +419,12 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 17
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 378.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -434,11 +443,24 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "c309477355a39498",
+  "active": "1df8ae9447b1c2ab",
   "lastOpenFiles": [
+    "Frases.md",
+    "2_Projects/Simple Grasping RL task - G1.md",
+    "META.md",
+    "2_Projects/Training a robot in Isaac Sim.md",
+    "2_Projects/RL Learning.md",
+    "2_Projects/Building a Simple Robot in Isaac Sim.md",
+    "2_Projects/Isaac Sim Installation.md",
+    "2_Projects/Untitled.canvas",
     "Linux Essentials.md",
-    "Docker installation.md",
     "Virtual envirmoent usage.md",
+    "G1grasp summary.md",
+    "2_Projects/SmartAssitant/Roadmap.md",
+    "Custom Chatbot Roadmap.md",
+    "1_Areas/Robotics/Robotics MOC.md",
+    "Customizing the Terminal.md",
+    "Docker installation.md",
     "Ros2 Installation.md",
     "2_Projects/SuperKnoba.canvas",
     "Kiwi/TO-DO Kiwi.md",
@@ -446,33 +468,20 @@
     "Kiwi/attachments/Pasted image 20250924095427.png",
     "Kiwi/attachments/Pasted image 20250924093204.png",
     "Kiwi/attachments/Pasted image 20250924092145.png",
-    "G1grasp summary.md",
-    "2_Projects/Training a robot in Isaac Sim.md",
-    "2_Projects/Simple Grasping RL task - G1.md",
     "2_Projects/Analyzing Isaac Lab Humanoid examples.md",
-    "2_Projects/RL Learning.md",
-    "2_Projects/Building a Simple Robot in Isaac Sim.md",
-    "Customizing the Terminal.md",
-    "Custom Chatbot Roadmap.md",
-    "2_Projects/SmartAssitant/Roadmap.md",
     "2_Projects/SmartAssitant",
     "Kiwi/Web Tools.md",
-    "1_Areas/Robotics/Robotics MOC.md",
     "Templates/Basic.md",
     "Templates",
     "TODO Kiwi.md",
-    "META.md",
     "Excalidraw/Drawing 2025-09-15 14.50.48.excalidraw.md",
     "Kiwi/attachments/Pasted image 20250915161524.png",
     "Kiwi/attachments",
     "Kiwi",
     "2_Projects/SuperKnoba.md",
-    "2_Projects/Untitled.canvas",
     "2_Projects/Untitled.base",
     "3_Resources/Teaching with rewards - Isaac Sim.md",
     "1_Areas/Robotics/Isaac SIM MOC.md",
-    "3_Resources/Edge Computing.md",
-    "2_Projects/Isaac Sim Installation.md",
     "2_Projects/attachments/Pasted image 20250913220232.png",
     "2_Projects/attachments/Pasted image 20250913153314.png",
     "Excalidraw",

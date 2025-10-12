@@ -7,4 +7,8 @@ deactivate
 
 
 
-conda can manage different python versions
+conda can manage different python versions and other languages
+
+uv venv is very very fast
+
+uv before pip
